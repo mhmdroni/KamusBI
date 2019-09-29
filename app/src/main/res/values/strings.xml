@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kamus Betawi - Indonesia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Perbandingan Algoritma Boyer-Moore dengan Algoritma Horspool pada Aplikasi Kamus Betawi - Indonesia menggunakan Tesseract untuk fitur Optical Character Recognition (OCR)</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ocr">OCR</string>
+    <string name="hasil_terjemah">Hasil Terjemah</string>
+    <string name="masukkan_teks">Masukkan Teks</string>
+    <string name="terjemah">Terjemah</string>
+    <string name="waktu">waktu</string>
+    <string name="terjemahkan">Terjemahkan</string>
+
+    <string-array name="algoritma">
+        <item>Boyer Moore</item>
+        <item>Horspool</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Id" />
+
+        <TextView
+            android:id="@+id/tvBasanya"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Babasan Text"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvIndo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Indonesia Text"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
